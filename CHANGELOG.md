@@ -1,5 +1,9 @@
 # ChangeLog
 
+## v1.14.0
+
+* Remove MobX, Promise, and Observable composers
+
 ## v1.13.0
 
 * Add support for MobX. See: [PR101](https://github.com/kadirahq/react-komposer/pull/101)
